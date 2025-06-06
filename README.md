@@ -5,6 +5,8 @@ En este proyecto, se desarrolla un modelo predictivo para identificar clientes e
 
 ## 2. Origen de Datos
 Se utilizó un dataset de Kaggle que contiene información demográfica, de uso del servicio y comportamiento de pago de clientes.
+- Archivo adjunto en este repositorio: customer_churn_dataset-training-master.csv
+- Se trabajo en el archivo: Rotacion_de_Clientes.ipynb
 
 ## 3. Análisis Exploratorio de Datos (EDA)
 Se realizó un análisis exhaustivo para comprender la distribución de las variables y su relación con la rotación de clientes.
